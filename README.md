@@ -4,6 +4,10 @@ A Streamlit application that runs an 8-script automation pipeline for HHS contra
 modification processing. Upload the required input files, run the pipeline (fully or
 step-by-step), and download the generated outputs — all from a single web UI.
 
+The pipeline automates the end-to-end generation of modification artifacts (coversheets,
+overview and F&R files, build/J1/J17 updates, and MFR/SF30 documents) so a full mod cycle
+can be produced from a handful of source spreadsheets.
+
 ## Project layout
 
 ```
